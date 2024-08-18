@@ -71,7 +71,7 @@ Implement best practices for SEO, so we need perfect structured URL like below:
 - www.website.com/services/30423jlskdfs ❌
 - www.website.com/services/service-i-need-to-buy ✅
 
-# Don't forget to include a static meta title and meta description for static pages, and a dynamic meta title and meta description for dynamic pages.
+- Don't forget to include a static meta title and meta description for static pages, and a dynamic meta title and meta description for dynamic pages.
 
 
 
@@ -99,4 +99,4 @@ Please begin front-end development right away. The deadline for submission is Au
 
 Thank you! 
 
-# Please note: We didn't provide you with a specific design to allow your creativity to shine. Feel free to let your imagination run wild and come up with something unique!
+Please note: We didn't provide you with a specific design to allow your creativity to shine. Feel free to let your imagination run wild and come up with something unique!

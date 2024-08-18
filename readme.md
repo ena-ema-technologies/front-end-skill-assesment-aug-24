@@ -9,8 +9,7 @@ Technology Stack:
 Styling: Raw CSS
 Database: MongoDB
 Language: TypeScript
-Components: Material UI
-Payment Gateway: Stripe
+Components: Material UI 
 Framework: Next.js (App Router)
 State Management: Redux Toolkit
 

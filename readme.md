@@ -71,6 +71,10 @@ Implement best practices for SEO, so we need perfect structured URL like below:
 - www.website.com/services/30423jlskdfs ❌
 - www.website.com/services/service-i-need-to-buy ✅
 
+# Don't forget to include a static meta title and meta description for static pages, and a dynamic meta title and meta description for dynamic pages.
+
+
+
 Security Features:
 ------------------ 
 
@@ -83,3 +87,16 @@ Additional Requirements:
 Clean and modern UI using Material UI with custom CSS styling.
 Seamless integration with MongoDB for dynamic content and data management.
 Easy-to-use content management system for non-technical users to update content.
+
+
+Submission :
+---------------
+Please begin front-end development right away. The deadline for submission is August 25, 2024. We understand that you may not be able to complete everything to showcase your expertise, but we have assigned this task to assess your capabilities under pressure. Please provide the following information:
+
+- Project deployment URL
+- Admin access to check functionalities
+- GitHub repository (ensure that your code visibility is set to public for further assessment)
+
+Thank you! 
+
+# Please note: We didn't provide you with a specific design to allow your creativity to shine. Feel free to let your imagination run wild and come up with something unique!
